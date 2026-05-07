@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-- **Idade:** 25 anos  
+- **Idade:** 18 anos  
 - **Localização:** Brasil  
 - **Formação:** Tecnólogo em Análise e Desenvolvimento de Sistemas  
 - **Interesses:** Desenvolvimento Web, Inteligência Artificial, Aprendizado de Máquina
