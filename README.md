@@ -4,7 +4,7 @@
 
 - **Idade:** 18 anos  
 - **Localização:** Brasi-Brasilia  
-- **Formação:** Técnico em informática: Cursando S.I(Sistemas de informação),Engenharia de Prompt.
+- **Formação:** Técnico em informática: Cursando S.I(Sistemas de informação),
 - **Interesses:** Desenvolvimento Web, Inteligência Artificial, Aprendizado de Máquina, Progamação.
 
 ## Habilidades
@@ -15,6 +15,7 @@
   - HTML
   - CSS
   - MYSQL
+  - Engenheiro de Prompt
 - **Frameworks:**
 - MYSQL
 - **Ferramentas:**  
