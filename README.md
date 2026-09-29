@@ -1,29 +1,26 @@
-# Olá, eu sou Miguel Henri!
+# Olá, eu sou Miguel Henrinque!
 
 ## Sobre Mim
 
 - **Idade:** 18 anos  
-- **Localização:** Brasil  
-- **Formação:** Tecnólogo em Análise e Desenvolvimento de Sistemas  
-- **Interesses:** Desenvolvimento Web, Inteligência Artificial, Aprendizado de Máquina
+- **Localização:** Brasi-Brasilia  
+- **Formação:** Técnico em informática: Cursando S.I(Sistemas de informação),Engenharia de Prompt.
+- **Interesses:** Desenvolvimento Web, Inteligência Artificial, Aprendizado de Máquina, Progamação.
 
 ## Habilidades
 
 - **Linguagens de Programação:**  
-  - Python  
-  - JavaScript  
-  - Java  
-
-- **Frameworks:**  
-  - React  
-  - Node.js  
-  - Django  
-
+  - Python 
+  - C
+  - HTML
+  - CSS
+  - MYSQL
+- **Frameworks:**
+- MYSQL
 - **Ferramentas:**  
-  - Git  
-  - Docker  
+  - Git   
   - Visual Studio Code
-
+  - mycompiler
 ## Projetos em Destaque
 
 - [Meu Portfólio](https://meuportfolio.com)  
