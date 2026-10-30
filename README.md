@@ -1,7 +1,7 @@
 # Olá, eu sou Miguel Henrinque!
 
 ## Sobre Mim
-
+- Estudante de Sistemas de Informação | Desenvolvimento de Software | Banco de Dados
 - **Idade:** 18 anos  
 - **Localização:** Brasi-Brasilia  
 - **Formação:** Técnico em informática: Cursando S.I(Sistemas de informação),
